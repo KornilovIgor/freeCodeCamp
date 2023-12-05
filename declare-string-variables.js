@@ -1,4 +1,4 @@
-// DESCRIPTION:
+// ❓DESCRIPTION:
 //     Previously you used the following code to declare a variable:
 //
 //     var myName;
@@ -11,6 +11,6 @@
 //     Create two new string variables: myFirstName and myLastName and assign them the values of your first and last
 //     name, respectively.
 
-// SOLUTION:
+// ✅SOLUTION:
 var myFirstName = "Igor";
 var myLastName = "Kornilov";

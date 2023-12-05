@@ -1,4 +1,4 @@
-// DESCRIPTION:
+// ❓DESCRIPTION:
 //
 // Declare JavaScript Variables
 // In computer science, data is anything that is meaningful to the computer. JavaScript provides eight different data types which are undefined, null, boolean, string, symbol, bigint, number, and object.
@@ -16,7 +16,7 @@
 //
 //     Use the var keyword to create a variable called myName.
 
-// SOLUTION:
+// ✅SOLUTION:
 
 var myName;
 
