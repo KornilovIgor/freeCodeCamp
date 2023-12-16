@@ -24,9 +24,9 @@ function countdown(n)
     else
     {
         const countArray = countdown(n - 1);
-        countArray.unshift(n);
+        countArray.push(n);
         return countArray;
     }
 }
 
-console.log(countdown(5));
+console.log(countdown(5).reverse());
